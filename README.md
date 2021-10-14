@@ -34,4 +34,16 @@ And the mail is drafted
 mail received with organizer email .
 ![image](https://user-images.githubusercontent.com/66934832/137279928-c8f66ec0-6114-408d-b865-7b040248fe01.png)
 
+Map can also be used to pin multiple  locations where clean up is taking place or plans .
+
+![image](https://user-images.githubusercontent.com/66934832/137280349-ebd9c676-b5d0-46ab-a78d-2c7eba6f08c0.png)
+
+All the maps are showing for development purpose only since the google API we use here is not paid one .
+
+Blog Spot :- It is used for sharing messages and pictures within the group 
+
+![image](https://user-images.githubusercontent.com/66934832/137280447-85dcc0f8-1d23-4f43-9857-6f970d037115.png)
+
+![image](https://user-images.githubusercontent.com/66934832/137280481-cdf9e40f-4a0f-4c98-999b-0784ff69ee8b.png)
+
 
