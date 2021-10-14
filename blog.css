@@ -1,0 +1,101 @@
+.right{
+   margin-left: 160vh;
+}
+.left{
+    padding-left: 5vh;
+}
+.top_pic{
+    background-image: url("top.jpg");
+    width: 100%;
+    height: 65vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.search_bar{
+    padding-top: 35vh;
+
+}
+.txt_bar{
+    margin-left: 75vh;
+    width: 50vh;
+}
+input{
+    height: 8vh;
+}
+
+
+
+.section{
+    margin-left: 10vh;
+    margin-top: 10vh;
+}
+.textBox{
+    width: 94%;
+    height: 250px;
+    font-size: 20px;
+    border-radius: 2px;
+    border: 2px solid black;
+    resize: none;
+
+}
+.submit{
+    margin-left: 15vh;
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-size: 18px;
+    border-radius: 15px;
+    background-color: red;
+    border: 2px solid black;
+}
+.submit:hover{
+    cursor: pointer;
+}
+.textBox:focus{
+    border: 3px solid black;
+}
+.box{
+    padding-top: 2vh;
+    padding-left: 2vh;
+    width:100vh;
+    height: 25vh;
+    font-size: 20px;
+    border: 2px solid red;
+    border-radius: 15px;
+    margin-left: 10vh;
+}
+img{
+    width: 50px;
+    height: 40px;
+    margin-left: 100vh;
+}
+
+img:hover{
+    cursor: pointer;
+}
+.block{
+    margin-top: 2vh;
+}
+
+.firstName{
+    width: 30vh;
+    height: 5vh;
+}
+.lastName{
+    width: 30vh;
+    height: 5vh;
+}
+
+
+
+
+
+
+  canvas {
+      margin-left: 80px;
+    height: 200px;
+    border: 2px solid rgb(20, 13, 13);
+  }
+  input {
+    font-size: 14pt;
+  }

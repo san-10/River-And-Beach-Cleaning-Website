@@ -1,0 +1,140 @@
+body{
+    background-color:grey;
+    background: url(image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    
+     font-family: Arial, Helvetica, sans-serif;
+     margin: 0;
+     padding: 0;
+     overflow-x: hidden; /* Hide vertical scrollbar */
+     
+     
+ }
+
+ header{
+     background-color:none;
+     
+ }
+h3{
+    color: black;
+}
+ section{
+     position: relative;
+     background-color: none;
+     left: 50%;
+     top: -350px;
+     color: grey;
+     padding: 120px 100px;
+     display: flex;
+     flex-direction: row;
+
+ }
+
+ul{
+    margin: 0;
+    padding:0;
+    list-style-type: none;
+
+}
+nav{
+    justify-content: space-around;
+    align-items:center;
+    position: absolute;
+    left: 40%; 
+    transform: translate(5%,-50%);
+    display:flex;
+    width: 70%;
+ }
+ li{
+     
+    display:inline-block;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   top:10px;
+    font-size: 20px;
+    margin-right: 50px;
+    color: whitesmoke;
+    }
+li:hover{
+   color:gold;
+   transform: scale(1.2);
+   cursor: pointer;
+}     
+
+div{
+   background-color:none;
+   margin: auto;
+   width: auto;
+   
+   
+}
+
+.heading{
+        position:relative ;
+        color: white;
+        /*font-family:Georgia, 'Times New Roman', Times, serif; */
+        font-size: 30px;
+        left: 48%;
+        top: 100px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+        
+     }
+
+     .subheading{
+         position: relative;
+         left: 50%;
+         top:120px;
+         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+
+     
+
+     div.gallery {
+         position: relative;
+         top:800px;        /*image gallary position */
+         
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
+      }
+      
+      div.gallery:hover {
+        border: 1px solid #777;
+      }
+      
+      div.gallery img {
+        width: 100%;
+        height: auto;
+      }
+      
+      div.desc {
+        padding: 15px;
+        text-align: center;
+        color: black;
+      }
+      footer{
+        position:absolute;
+        top:100%;
+        background-color : black;
+      }
+
+      .ourprojects{
+          position: absolute;
+          top:950px;
+          color: black;
+      }
+
+      #down{
+        position:absolute;
+        background-image: url("fishes.jpeg");
+        color: black;
+        background-color: black;
+        top:235px;
+        left:1px;
+        padding: 500px 500px 100px 1000px;
+        z-index: -5;
+        
+        background-size: 1600px 1600px;
+    }
