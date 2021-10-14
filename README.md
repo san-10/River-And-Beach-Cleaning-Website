@@ -17,3 +17,8 @@ Map :- It helps the organizer to pin the location where the event is going to be
 Mail :- Helps to send mail to all volunteers registered at once .
 
 ![image](https://user-images.githubusercontent.com/66934832/137279506-9ad9adb3-0a10-44ae-ad75-14b84d8b7945.png)
+
+Map usage :- To use map effectively pin a building or a well known place that can be used as volunteers to assemble .
+As shown in the Map :-
+
+![image](https://user-images.githubusercontent.com/66934832/137279665-bd358abe-5d10-4444-bdfd-df1daea2380f.png)
