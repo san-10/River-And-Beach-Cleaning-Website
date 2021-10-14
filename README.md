@@ -15,3 +15,5 @@ Has record of our old activities .
 Map :- It helps the organizer to pin the location where the event is going to be held .
 
 Mail :- Helps to send mail to all volunteers registered at once .
+
+![image](https://user-images.githubusercontent.com/66934832/137279506-9ad9adb3-0a10-44ae-ad75-14b84d8b7945.png)
