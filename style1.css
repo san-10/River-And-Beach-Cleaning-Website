@@ -1,0 +1,41 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    background:rgb(97, 169, 179);
+    box-shadow: 15px 20px 40px rgba(27, 27, 27, 0.04);
+    z-index: 1;
+    text-emphasis-color: white;
+    text-shadow: 1px;
+  }
+  .container{
+   
+    position:relative;
+    padding: 13px;
+    width:fit-content;
+    
+  }
+
+  .img{
+    width: 50%;
+    
+    height: min-content;
+    
+
+  }
+  .both{
+    display:flex;
+    flex-direction: row;
+  }
+
+  .left{
+    padding: 100px;
+    padding-left: 20px;
+  }
+  .right{
+    padding: 20px;
+  }
