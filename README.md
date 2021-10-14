@@ -22,3 +22,9 @@ Map usage :- To use map effectively pin a building or a well known place that ca
 As shown in the Map :-
 
 ![image](https://user-images.githubusercontent.com/66934832/137279665-bd358abe-5d10-4444-bdfd-df1daea2380f.png)
+
+Then fill the details for the email and paste the location derived .
+
+![image](https://user-images.githubusercontent.com/66934832/137279767-31b75de8-036d-453f-872d-01a4eb32d1da.png)
+
+And the mail is drafted 
