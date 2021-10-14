@@ -29,7 +29,7 @@ Then fill the details for the email and paste the location derived .
 
 And the mail is drafted 
 
-![image](https://user-images.githubusercontent.com/66934832/137279846-6d302d2b-09fe-4056-957b-d30d26a35ff6.png)
+![image](https://user-images.githubusercontent.com/66934832/137280193-cd06af96-34f7-42d6-a7a9-d95438c81396.png)
 
 mail received with organizer email .
 ![image](https://user-images.githubusercontent.com/66934832/137279928-c8f66ec0-6114-408d-b865-7b040248fe01.png)
