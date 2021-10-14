@@ -11,3 +11,5 @@ Our Programs :-
 Has record of our old activities .
 ![image](https://user-images.githubusercontent.com/66934832/137278956-32904f33-58e7-48e4-8239-ec5c5a53494a.png)
 
+Map :- It helps the organizer to pin the location where the event is going to be held .
+Mail :- Helps to send mail to all volunteers registered at once .
